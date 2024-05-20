@@ -1,0 +1,14 @@
+.csv-uploader {
+    max-width: 600px;
+  }
+  
+  .progress-bar-container {
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+  }
+  
+  progress {
+    flex-grow: 1;
+    margin-right: 1rem;
+  }
